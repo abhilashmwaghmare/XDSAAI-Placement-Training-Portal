@@ -17,17 +17,10 @@ A standalone static portal for the 12-day XDSAAI placement training pathway. Thi
 - Search, dark theme, mobile navigation, print-friendly layout
 - Browser-local progress tracking
 
-## Publish with GitHub Pages
 
-The workflow at `.github/workflows/pages.yml` deploys the repository root directly to GitHub Pages on pushes to `main`.
-
-1. Open **Settings → Pages** in this repository.
-2. Under **Build and deployment**, select **GitHub Actions** as the source.
-3. Push a commit to `main`, or open **Actions** and run **Deploy CloudBlitz XDSAAI Portal to GitHub Pages**.
-4. When the workflow finishes successfully, the site URL will be:
    `https://abhilashmwaghmare.github.io/XDSAAI-Placement-Training-Portal/`
 
-No Cloudflare Pages is used.
+
 
 ## Progress and privacy note
 
